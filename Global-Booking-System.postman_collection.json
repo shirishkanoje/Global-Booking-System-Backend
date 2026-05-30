@@ -1,0 +1,110 @@
+{
+  "info": {
+    "_postman_id": "2dd1fdcd-a4ae-444d-893f-3e69f7ecaf3d",
+    "name": "Global-Booking-System",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "43139253"
+  },
+  "item": [
+    {
+      "name": "Create",
+      "item": [
+        {
+          "name": "CREATE TEACHER",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "CREATE COURSE",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "CREATE OFFERING",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "ADD SESSIONS",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "CREATE PARENT",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "View",
+      "item": [
+        {
+          "name": "VIEW OFFERINGS",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "BOOK",
+      "item": [
+        {
+          "name": "BOOK OFFERING",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Test",
+      "item": [
+        {
+          "name": "TEST OVERLAP CONFLICT1",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "TEST CONCURRENT BOOKING_1",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "TEST CONCURRENT BOOKING_2",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
