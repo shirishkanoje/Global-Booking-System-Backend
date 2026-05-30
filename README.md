@@ -135,8 +135,8 @@ Add your ER diagram screenshot here.
 
 ![Database Schema](<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/e676cfd5-26c0-4552-ab49-500753413a7b" />
 )
-<img width="1366" height="768" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/8b40e271-6aac-4111-9848-a7204bbeec83" />
-<img width="1366" height="768" alt="Parent Not Found" src="https://github.com/user-attachments/assets/37f6426f-c4f6-41f8-bc66-5c008600678e" />
+<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/9581df84-92ee-499a-b75b-08a7a9d0395b" />
+
 
 ---
 
@@ -145,7 +145,7 @@ Add your ER diagram screenshot here.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/global-booking-system.git
+git clone https://github.com/shirishkanoje/global-booking-system.git
 ```
 
 ---
@@ -376,6 +376,8 @@ POST /api/teachers
 ## Screenshot
 
 ![Create Teacher](screenshots/create-teacher.png)
+<img width="1366" height="768" alt="Create Teacher" src="https://github.com/user-attachments/assets/b0918c88-65e4-48b5-8037-cf58de7d2528" />
+
 
 ---
 
@@ -399,6 +401,8 @@ POST /api/teachers/courses
 ## Screenshot
 
 ![Create Course](screenshots/create-course.png)
+<img width="1366" height="768" alt="Create Course" src="https://github.com/user-attachments/assets/2bc309ed-cb8f-415f-a0fc-c22a2c8fbca2" />
+
 
 ---
 
@@ -423,6 +427,8 @@ POST /api/teachers/offerings
 ## Screenshot
 
 ![Create Offering](screenshots/create-offering.png)
+<img width="1366" height="768" alt="Create Offering" src="https://github.com/user-attachments/assets/e654fcf7-3cfe-4e5b-a2a5-ecb9e976e26d" />
+
 
 ---
 
@@ -447,6 +453,8 @@ POST /api/teachers/sessions
 ## Screenshot
 
 ![Create Session](screenshots/create-session.png)
+<img width="1366" height="768" alt="Create Session" src="https://github.com/user-attachments/assets/8eb30b11-0617-4681-a040-d57dfdf35d76" />
+
 
 ---
 
@@ -471,6 +479,8 @@ POST /api/parents
 ## Screenshot
 
 ![Create Parent](screenshots/create-parent.png)
+<img width="1366" height="768" alt="Create Parent" src="https://github.com/user-attachments/assets/faf88847-2602-4a6a-b44e-03669da160bb" />
+
 
 ---
 
@@ -485,6 +495,8 @@ GET /api/parents/offerings
 ## Screenshot
 
 ![View Offering](screenshots/view-offering.png)
+<img width="1366" height="768" alt="View Offering" src="https://github.com/user-attachments/assets/ac14a70c-c4f7-44e4-b3da-b6023758dae8" />
+
 
 ---
 
@@ -508,6 +520,8 @@ POST /api/bookings
 ## Screenshot
 
 ![Book Offering](screenshots/book-offering.png)
+<img width="1366" height="768" alt="Book Offering" src="https://github.com/user-attachments/assets/2c31c16b-a7e9-4232-9942-71aa2889b8a8" />
+
 
 ---
 
@@ -526,6 +540,9 @@ Expected Response:
 ## Screenshot
 
 ![Booking Conflict](screenshots/booking-conflict.png)
+<img width="1366" height="768" alt="Booking Conflict" src="https://github.com/user-attachments/assets/f4ffd661-a152-4335-89f6-0d48f1ad196f" />
+<img width="1366" height="768" alt="Booking Conflict Window 2" src="https://github.com/user-attachments/assets/44f1487b-34d3-40f7-b0a6-79f73a4d5a44" />
+
 
 ---
 
