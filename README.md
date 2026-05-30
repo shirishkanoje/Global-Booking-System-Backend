@@ -31,7 +31,7 @@ The system allows:
 - Add Sessions
 - View Teacher Offerings
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Parent Features
 
@@ -54,7 +54,7 @@ The system allows:
 ---
 
 # Tech Stack Used
-|-----------------------------|--------------------------------|
+
 | Technology                  |           Purpose              |
 |-----------------------------|--------------------------------|
 | Java 21                     | Programming Language           |
@@ -65,7 +65,7 @@ The system allows:
 | Lombok                      | Boilerplate reduction          |
 | Maven                       | Dependency management          |
 | Postman                     | API testing                    |
-|-----------------------------|--------------------------------|
+
 
 
 # Project Structure
@@ -133,8 +133,10 @@ Add your ER diagram screenshot here.
 
 ## ER Diagram
 
-![Database Schema](<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/a2ab4a61-9f92-4e45-ba51-65cecb9de331" />
+![Database Schema](<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/e676cfd5-26c0-4552-ab49-500753413a7b" />
 )
+<img width="1366" height="768" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/8b40e271-6aac-4111-9848-a7204bbeec83" />
+<img width="1366" height="768" alt="Parent Not Found" src="https://github.com/user-attachments/assets/37f6426f-c4f6-41f8-bc66-5c008600678e" />
 
 ---
 
